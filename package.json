@@ -1,6 +1,6 @@
 {
   "displayName": "Dialog System",
-  "name": "com.PPTCB.ext.nunit",
+  "name": "com.puppetcombobrasil.dialogsystem",
   "version": "1.0.1",
   "unity": "2019.2",
   "description": "Simple dialog system to everything interaction inside the game.",
@@ -11,14 +11,9 @@
   ],
   "category": "Libraries",
   "repository": {
-    "url": "",
-    "type": "",
+    "url": "https://github.com/Puppet-Combo-Brasileira/standard-dialog-system.git",
+    "type": "script",
     "revision": ""
   },
-  "relatedPackages": {
-    "com.unity.ext.nunit.tests": "1.0.1"
-  },
-  "upmCi": {
-    "footprint": "e9f76bd265402773096bf08a8ffb51cd3d76f39a"
-  }
+  "type": "library"
 }
